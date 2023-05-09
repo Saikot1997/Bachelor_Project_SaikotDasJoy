@@ -1,0 +1,122 @@
+#-----------------------------------------------------------
+# Vivado v2022.2 (64-bit)
+# SW Build 3671981 on Fri Oct 14 05:00:03 MDT 2022
+# IP Build 3669848 on Fri Oct 14 08:30:02 MDT 2022
+# Start of session at: Mon Mar 20 15:58:02 2023
+# Process ID: 17252
+# Current directory: C:/Users/SaikotDasJoy/Documents/GitHub/Bachelor_Project_SaikotDasJoy/project_28
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent19568 C:\Users\SaikotDasJoy\Documents\GitHub\Bachelor_Project_SaikotDasJoy\project_28\project_28.xpr
+# Log file: C:/Users/SaikotDasJoy/Documents/GitHub/Bachelor_Project_SaikotDasJoy/project_28/vivado.log
+# Journal file: C:/Users/SaikotDasJoy/Documents/GitHub/Bachelor_Project_SaikotDasJoy/project_28\vivado.jou
+# Running On: DESKTOP-OFMRNTP, OS: Windows, CPU Frequency: 2592 MHz, CPU Physical cores: 6, Host memory: 16862 MB
+#-----------------------------------------------------------
+start_gui
+open_project C:/Users/SaikotDasJoy/Documents/GitHub/Bachelor_Project_SaikotDasJoy/project_28/project_28.xpr
+WARNING: [Board 49-26] cannot add Board Part xilinx.com:vek280_es:part0:1.0 available at C:/Xilinx/Vivado/2022.2/data/xhub/boards/XilinxBoardStore/boards/Xilinx/vek280/es/1.0/board.xml as part xcve2802-vsvh1760-2lp-e-s-es1 specified in board_part file is either invalid or not available
+WARNING: [Board 49-26] cannot add Board Part xilinx.com:vhk158_es:part0:1.0 available at C:/Xilinx/Vivado/2022.2/data/xhub/boards/XilinxBoardStore/boards/Xilinx/vhk158/es/1.0/board.xml as part xcvh1582-vsva3697-2mp-e-s-es1 specified in board_part file is either invalid or not available
+WARNING: [Board 49-26] cannot add Board Part xilinx.com:vpk120_es:part0:1.2 available at C:/Xilinx/Vivado/2022.2/data/xhub/boards/XilinxBoardStore/boards/Xilinx/vpk120/es/1.2/board.xml as part xcvp1202-vsva2785-2mp-e-s-es1 specified in board_part file is either invalid or not available
+WARNING: [Board 49-26] cannot add Board Part xilinx.com:vpk120_es_revb:part0:1.0 available at C:/Xilinx/Vivado/2022.2/data/xhub/boards/XilinxBoardStore/boards/Xilinx/vpk120_revb/es/1.0/board.xml as part xcvp1202-vsva2785-2mp-e-s-es1 specified in board_part file is either invalid or not available
+WARNING: [Board 49-26] cannot add Board Part xilinx.com:vpk180_es:part0:1.0 available at C:/Xilinx/Vivado/2022.2/data/xhub/boards/XilinxBoardStore/boards/Xilinx/vpk180/es/1.0/board.xml as part xcvp1802-lsvc4072-2mp-e-s-es1 specified in board_part file is either invalid or not available
+WARNING: [Board 49-26] cannot add Board Part xilinx.com:zcu208ld:part0:2.0 available at C:/Xilinx/Vivado/2022.2/data/xhub/boards/XilinxBoardStore/boards/Xilinx/zcu208ld/production/2.0/board.xml as part xczu58dr-fsvg1517-2-i specified in board_part file is either invalid or not available
+WARNING: [Board 49-26] cannot add Board Part xilinx.com:zcu216ld:part0:2.0 available at C:/Xilinx/Vivado/2022.2/data/xhub/boards/XilinxBoardStore/boards/Xilinx/zcu216ld/production/2.0/board.xml as part xczu59dr-ffvf1760-2-i specified in board_part file is either invalid or not available
+WARNING: [Board 49-26] cannot add Board Part xilinx.com:zcu670:part0:2.0 available at C:/Xilinx/Vivado/2022.2/data/xhub/boards/XilinxBoardStore/boards/Xilinx/zcu670/2.0/board.xml as part xczu67dr-fsve1156-2-i specified in board_part file is either invalid or not available
+WARNING: [Board 49-26] cannot add Board Part xilinx.com:zcu670ld:part0:1.0 available at C:/Xilinx/Vivado/2022.2/data/xhub/boards/XilinxBoardStore/boards/Xilinx/zcu670ld/1.0/board.xml as part xczu57dr-fsve1156-2-i specified in board_part file is either invalid or not available
+INFO: [Project 1-313] Project file moved from 'C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/project_28' since last save.
+INFO: [filemgmt 56-1] IP Repository Path: Directory not found as 'C:/Users/SaikotDasJoy/Documents/GitHub/Bachelor_Project_SaikotDasJoy/vivado-library-master1'; using path 'C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/vivado-library-master1' instead.
+Scanning sources...
+Finished scanning sources
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1700] Loaded user IP repository 'c:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/vivado-library-master1'.
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'C:/Xilinx/Vivado/2022.2/data/ip'.
+open_project: Time (s): cpu = 00:00:12 ; elapsed = 00:00:18 . Memory (MB): peak = 2298.680 ; gain = 488.523
+open_bd_design {C:/Users/SaikotDasJoy/Documents/GitHub/Bachelor_Project_SaikotDasJoy/project_28/project_28.srcs/sources_1/bd/design_1/design_1.bd}
+Reading block design file <C:/Users/SaikotDasJoy/Documents/GitHub/Bachelor_Project_SaikotDasJoy/project_28/project_28.srcs/sources_1/bd/design_1/design_1.bd>...
+Adding component instance block -- xilinx.com:ip:microblaze:11.0 - microblaze_0
+Adding component instance block -- xilinx.com:ip:lmb_v10:3.0 - dlmb_v10
+Adding component instance block -- xilinx.com:ip:lmb_v10:3.0 - ilmb_v10
+Adding component instance block -- xilinx.com:ip:lmb_bram_if_cntlr:4.0 - dlmb_bram_if_cntlr
+Adding component instance block -- xilinx.com:ip:lmb_bram_if_cntlr:4.0 - ilmb_bram_if_cntlr
+Adding component instance block -- xilinx.com:ip:blk_mem_gen:8.4 - lmb_bram
+Adding component instance block -- xilinx.com:ip:axi_interconnect:2.1 - microblaze_0_axi_periph
+Adding component instance block -- xilinx.com:ip:axi_crossbar:2.1 - xbar
+Adding component instance block -- xilinx.com:ip:axi_intc:4.1 - microblaze_0_axi_intc
+Adding component instance block -- xilinx.com:ip:xlconcat:2.1 - microblaze_0_xlconcat
+Adding component instance block -- xilinx.com:ip:mdm:3.2 - mdm_1
+Adding component instance block -- xilinx.com:ip:clk_wiz:6.0 - clk_wiz_1
+Adding component instance block -- xilinx.com:ip:proc_sys_reset:5.0 - rst_clk_wiz_1_100M
+Adding component instance block -- xilinx.com:ip:axi_uartlite:2.0 - axi_uartlite_0
+Adding component instance block -- digilentinc.com:IP:PmodOLEDrgb:1.0 - PmodOLEDrgb_0
+Adding component instance block -- digilentinc.com:user:PmodESP32:1.0 - PmodESP32_0
+Adding component instance block -- xilinx.com:ip:axi_iic:2.1 - axi_iic_0
+Adding component instance block -- xilinx.com:ip:axi_iic:2.1 - axi_iic_1
+Successfully read diagram <design_1> from block design file <C:/Users/SaikotDasJoy/Documents/GitHub/Bachelor_Project_SaikotDasJoy/project_28/project_28.srcs/sources_1/bd/design_1/design_1.bd>
+open_bd_design: Time (s): cpu = 00:00:05 ; elapsed = 00:00:09 . Memory (MB): peak = 2406.777 ; gain = 81.734
+update_compile_order -fileset sources_1
+open_bd_design {C:/Users/SaikotDasJoy/Documents/GitHub/Bachelor_Project_SaikotDasJoy/project_28/project_28.srcs/sources_1/bd/design_1/design_1.bd}
+close_project
+open_project C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/project_29/project_29.xpr
+INFO: [filemgmt 56-3] Default IP Output Path : Could not find the directory 'C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/project_29/project_29.gen/sources_1'.
+Scanning sources...
+Finished scanning sources
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1700] Loaded user IP repository 'c:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/vivado-library-master1'.
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'C:/Xilinx/Vivado/2022.2/data/ip'.
+open_project: Time (s): cpu = 00:00:01 ; elapsed = 00:00:05 . Memory (MB): peak = 2861.113 ; gain = 0.000
+update_compile_order -fileset sources_1
+create_bd_design "design_1"
+Wrote  : <C:\Users\SaikotDasJoy\Desktop\Embedded_Electronics_B\project_29\project_29.srcs\sources_1\bd\design_1\design_1.bd> 
+create_bd_design: Time (s): cpu = 00:00:04 ; elapsed = 00:00:05 . Memory (MB): peak = 2861.113 ; gain = 0.000
+update_compile_order -fileset sources_1
+startgroup
+create_bd_cell -type ip -vlnv digilentinc.com:IP:PmodTMP3:1.0 PmodTMP3_0
+WARNING: [IP_Flow 19-3571] IP 'design_1_PmodTMP3_0_0' is restricted:
+* IP definition 'PmodTMP3_v1_0 (1.0)' relies on the following subcore(s) that were not found in the IP Catalog: xilinx.com:ip:axi_iic:2.0
+endgroup
+export_ip_user_files -of_objects  [get_files C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/project_29/project_29.srcs/sources_1/new/temperature.vhd] -no_script -reset -force -quiet
+remove_files  C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/project_29/project_29.srcs/sources_1/new/temperature.vhd
+update_compile_order -fileset sources_1
+regenerate_bd_layout
+validate_bd_design
+ERROR: [BD 41-758] The following clock pins are not connected to a valid clock source: 
+/PmodTMP3_0/s_axi_aclk
+
+ERROR: [Common 17-39] 'validate_bd_design' failed due to earlier errors.
+make_wrapper -files [get_files C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/project_29/project_29.srcs/sources_1/bd/design_1/design_1.bd] -top
+ERROR: [BD 41-758] The following clock pins are not connected to a valid clock source: 
+/PmodTMP3_0/s_axi_aclk
+
+ERROR: [BD 41-1031] Hdl Generation failed for the IP Integrator design C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/project_29/project_29.srcs/sources_1/bd/design_1/design_1.bd 
+ERROR: [Common 17-39] 'make_wrapper' failed due to earlier errors.
+close_project
+open_project C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/project_28/project_28.xpr
+Scanning sources...
+Finished scanning sources
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1700] Loaded user IP repository 'c:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/vivado-library-master1'.
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'C:/Xilinx/Vivado/2022.2/data/ip'.
+open_project: Time (s): cpu = 00:00:03 ; elapsed = 00:00:08 . Memory (MB): peak = 3062.473 ; gain = 0.000
+open_bd_design {C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/project_28/project_28.srcs/sources_1/bd/design_1/design_1.bd}
+Reading block design file <C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/project_28/project_28.srcs/sources_1/bd/design_1/design_1.bd>...
+Adding component instance block -- xilinx.com:ip:microblaze:11.0 - microblaze_0
+Adding component instance block -- xilinx.com:ip:lmb_v10:3.0 - dlmb_v10
+Adding component instance block -- xilinx.com:ip:lmb_v10:3.0 - ilmb_v10
+Adding component instance block -- xilinx.com:ip:lmb_bram_if_cntlr:4.0 - dlmb_bram_if_cntlr
+Adding component instance block -- xilinx.com:ip:lmb_bram_if_cntlr:4.0 - ilmb_bram_if_cntlr
+Adding component instance block -- xilinx.com:ip:blk_mem_gen:8.4 - lmb_bram
+Adding component instance block -- xilinx.com:ip:axi_interconnect:2.1 - microblaze_0_axi_periph
+Adding component instance block -- xilinx.com:ip:axi_crossbar:2.1 - xbar
+Adding component instance block -- xilinx.com:ip:axi_intc:4.1 - microblaze_0_axi_intc
+Adding component instance block -- xilinx.com:ip:xlconcat:2.1 - microblaze_0_xlconcat
+Adding component instance block -- xilinx.com:ip:mdm:3.2 - mdm_1
+Adding component instance block -- xilinx.com:ip:clk_wiz:6.0 - clk_wiz_1
+Adding component instance block -- xilinx.com:ip:proc_sys_reset:5.0 - rst_clk_wiz_1_100M
+Adding component instance block -- xilinx.com:ip:axi_uartlite:2.0 - axi_uartlite_0
+Adding component instance block -- digilentinc.com:IP:PmodOLEDrgb:1.0 - PmodOLEDrgb_0
+Adding component instance block -- digilentinc.com:user:PmodESP32:1.0 - PmodESP32_0
+Adding component instance block -- xilinx.com:ip:axi_iic:2.1 - axi_iic_0
+Adding component instance block -- xilinx.com:ip:axi_iic:2.1 - axi_iic_1
+Successfully read diagram <design_1> from block design file <C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/project_28/project_28.srcs/sources_1/bd/design_1/design_1.bd>
+open_bd_design: Time (s): cpu = 00:00:05 ; elapsed = 00:00:06 . Memory (MB): peak = 3062.473 ; gain = 0.000
+update_compile_order -fileset sources_1
+exit
+INFO: [Common 17-206] Exiting Vivado at Wed Mar 22 15:37:58 2023...

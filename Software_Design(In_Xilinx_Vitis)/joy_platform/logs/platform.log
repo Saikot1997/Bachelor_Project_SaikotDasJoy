@@ -1,0 +1,1131 @@
+TRACE::2023-07-09.19:51:52::SCWPlatform::Trying to open the hw design at C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/Vitis/joy_platform/hw/design_1_wrapper.xsa
+TRACE::2023-07-09.19:51:52::SCWPlatform::DSA given C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/Vitis/joy_platform/hw/design_1_wrapper.xsa
+TRACE::2023-07-09.19:51:52::SCWPlatform::DSA absoulate path C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/Vitis/joy_platform/hw/design_1_wrapper.xsa
+TRACE::2023-07-09.19:51:52::SCWPlatform::DSA directory C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/Vitis/joy_platform/hw
+TRACE::2023-07-09.19:51:52::SCWPlatform:: Platform Path C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/Vitis/joy_platform/hw/design_1_wrapper.xsa
+TRACE::2023-07-09.19:51:52::SCWPlatform:: Unique name xilinx:nexys-a7-100t::0.0
+TRACE::2023-07-09.19:51:52::SCWPlatform::Do not have an existing db opened. 
+TRACE::2023-07-09.19:51:53::SCWPlatform::Opened new HwDB with name design_1_wrapper_0
+TRACE::2023-07-09.19:51:53::SCWWriter::formatted JSON is {
+	"platformName":	"joy_platform",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"joy_platform",
+	"platHandOff":	"C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/project_28/design_1_wrapper.xsa",
+	"platIntHandOff":	"<platformDir>/hw/design_1_wrapper.xsa",
+	"deviceType":	"FPGA",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	""
+}
+TRACE::2023-07-09.19:51:53::SCWWriter::formatted JSON is {
+	"platformName":	"joy_platform",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"joy_platform",
+	"platHandOff":	"C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/project_28/design_1_wrapper.xsa",
+	"platIntHandOff":	"<platformDir>/hw/design_1_wrapper.xsa",
+	"deviceType":	"FPGA",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"joy_platform",
+	"systems":	[{
+			"systemName":	"joy_platform",
+			"systemDesc":	"joy_platform",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"joy_platform"
+		}]
+}
+TRACE::2023-07-09.19:51:53::SCWPlatform::Boot application domains not present, creating them
+TRACE::2023-07-09.19:51:53::SCWPlatform::Pure FPGA device, no boot application will be created.
+TRACE::2023-07-09.19:51:53::SCWWriter::formatted JSON is {
+	"platformName":	"joy_platform",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"joy_platform",
+	"platHandOff":	"C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/project_28/design_1_wrapper.xsa",
+	"platIntHandOff":	"<platformDir>/hw/design_1_wrapper.xsa",
+	"deviceType":	"FPGA",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"joy_platform",
+	"systems":	[{
+			"systemName":	"joy_platform",
+			"systemDesc":	"joy_platform",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"joy_platform"
+		}]
+}
+TRACE::2023-07-09.19:51:53::SCWPlatform::Trying to open the hw design at C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/Vitis/joy_platform/hw/design_1_wrapper.xsa
+TRACE::2023-07-09.19:51:53::SCWPlatform::DSA given C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/Vitis/joy_platform/hw/design_1_wrapper.xsa
+TRACE::2023-07-09.19:51:53::SCWPlatform::DSA absoulate path C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/Vitis/joy_platform/hw/design_1_wrapper.xsa
+TRACE::2023-07-09.19:51:53::SCWPlatform::DSA directory C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/Vitis/joy_platform/hw
+TRACE::2023-07-09.19:51:53::SCWPlatform:: Platform Path C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/Vitis/joy_platform/hw/design_1_wrapper.xsa
+TRACE::2023-07-09.19:51:53::SCWPlatform:: Unique name xilinx:nexys-a7-100t::0.0
+TRACE::2023-07-09.19:51:53::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2023-07-09.19:51:53::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2023-07-09.19:51:53::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2023-07-09.19:51:53::SCWPlatform::Trying to open the hw design at C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/Vitis/joy_platform/hw/design_1_wrapper.xsa
+TRACE::2023-07-09.19:51:53::SCWPlatform::DSA given C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/Vitis/joy_platform/hw/design_1_wrapper.xsa
+TRACE::2023-07-09.19:51:53::SCWPlatform::DSA absoulate path C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/Vitis/joy_platform/hw/design_1_wrapper.xsa
+TRACE::2023-07-09.19:51:53::SCWPlatform::DSA directory C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/Vitis/joy_platform/hw
+TRACE::2023-07-09.19:51:53::SCWPlatform:: Platform Path C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/Vitis/joy_platform/hw/design_1_wrapper.xsa
+TRACE::2023-07-09.19:51:53::SCWPlatform:: Unique name xilinx:nexys-a7-100t::0.0
+TRACE::2023-07-09.19:51:53::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2023-07-09.19:51:53::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2023-07-09.19:51:53::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2023-07-09.19:51:53::SCWPlatform::Trying to open the hw design at C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/Vitis/joy_platform/hw/design_1_wrapper.xsa
+TRACE::2023-07-09.19:51:53::SCWPlatform::DSA given C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/Vitis/joy_platform/hw/design_1_wrapper.xsa
+TRACE::2023-07-09.19:51:53::SCWPlatform::DSA absoulate path C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/Vitis/joy_platform/hw/design_1_wrapper.xsa
+TRACE::2023-07-09.19:51:53::SCWPlatform::DSA directory C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/Vitis/joy_platform/hw
+TRACE::2023-07-09.19:51:53::SCWPlatform:: Platform Path C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/Vitis/joy_platform/hw/design_1_wrapper.xsa
+TRACE::2023-07-09.19:51:53::SCWPlatform:: Unique name xilinx:nexys-a7-100t::0.0
+TRACE::2023-07-09.19:51:53::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2023-07-09.19:51:53::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2023-07-09.19:51:53::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2023-07-09.19:51:53::SCWDomain::checking for install qemu data   : 
+TRACE::2023-07-09.19:51:53::SCWPlatform::Trying to open the hw design at C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/Vitis/joy_platform/hw/design_1_wrapper.xsa
+TRACE::2023-07-09.19:51:53::SCWPlatform::DSA given C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/Vitis/joy_platform/hw/design_1_wrapper.xsa
+TRACE::2023-07-09.19:51:53::SCWPlatform::DSA absoulate path C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/Vitis/joy_platform/hw/design_1_wrapper.xsa
+TRACE::2023-07-09.19:51:53::SCWPlatform::DSA directory C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/Vitis/joy_platform/hw
+TRACE::2023-07-09.19:51:53::SCWPlatform:: Platform Path C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/Vitis/joy_platform/hw/design_1_wrapper.xsa
+TRACE::2023-07-09.19:51:53::SCWPlatform:: Unique name xilinx:nexys-a7-100t::0.0
+TRACE::2023-07-09.19:51:53::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2023-07-09.19:51:53::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2023-07-09.19:51:53::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2023-07-09.19:51:53::SCWPlatform::Trying to open the hw design at C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/Vitis/joy_platform/hw/design_1_wrapper.xsa
+TRACE::2023-07-09.19:51:53::SCWPlatform::DSA given C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/Vitis/joy_platform/hw/design_1_wrapper.xsa
+TRACE::2023-07-09.19:51:53::SCWPlatform::DSA absoulate path C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/Vitis/joy_platform/hw/design_1_wrapper.xsa
+TRACE::2023-07-09.19:51:53::SCWPlatform::DSA directory C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/Vitis/joy_platform/hw
+TRACE::2023-07-09.19:51:53::SCWPlatform:: Platform Path C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/Vitis/joy_platform/hw/design_1_wrapper.xsa
+TRACE::2023-07-09.19:51:53::SCWPlatform:: Unique name xilinx:nexys-a7-100t::0.0
+TRACE::2023-07-09.19:51:53::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2023-07-09.19:51:53::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2023-07-09.19:51:53::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2023-07-09.19:51:53::SCWPlatform::Trying to open the hw design at C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/Vitis/joy_platform/hw/design_1_wrapper.xsa
+TRACE::2023-07-09.19:51:53::SCWPlatform::DSA given C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/Vitis/joy_platform/hw/design_1_wrapper.xsa
+TRACE::2023-07-09.19:51:53::SCWPlatform::DSA absoulate path C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/Vitis/joy_platform/hw/design_1_wrapper.xsa
+TRACE::2023-07-09.19:51:53::SCWPlatform::DSA directory C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/Vitis/joy_platform/hw
+TRACE::2023-07-09.19:51:53::SCWPlatform:: Platform Path C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/Vitis/joy_platform/hw/design_1_wrapper.xsa
+TRACE::2023-07-09.19:51:53::SCWPlatform:: Unique name xilinx:nexys-a7-100t::0.0
+TRACE::2023-07-09.19:51:53::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2023-07-09.19:51:53::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2023-07-09.19:51:53::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2023-07-09.19:51:53::SCWMssOS::Checking the sw design at  C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/Vitis/joy_platform/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2023-07-09.19:51:53::SCWMssOS::DEBUG:  swdes dump  
+TRACE::2023-07-09.19:51:53::SCWMssOS::No sw design opened at  C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/Vitis/joy_platform/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2023-07-09.19:51:53::SCWMssOS::mss does not exists at C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/Vitis/joy_platform/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2023-07-09.19:51:53::SCWMssOS::Creating sw design at  C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/Vitis/joy_platform/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2023-07-09.19:51:53::SCWMssOS::Adding the swdes entry, created swdb C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/Vitis/joy_platform/microblaze_0/standalone_domain/bsp/system.mss with des name C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/Vitis/joy_platform/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2023-07-09.19:51:53::SCWMssOS::updating the scw layer changes to swdes at   C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/Vitis/joy_platform/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2023-07-09.19:51:53::SCWMssOS::Writing mss at C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/Vitis/joy_platform/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2023-07-09.19:51:53::SCWMssOS::Completed writing the mss file at C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/Vitis/joy_platform/microblaze_0/standalone_domain/bsp
+TRACE::2023-07-09.19:51:53::SCWMssOS::Picking up changes from newly written mss file into SCW Layer. 
+TRACE::2023-07-09.19:51:53::SCWMssOS::Updated the changes from newly written mss file into SCW Layer. 
+TRACE::2023-07-09.19:51:53::SCWMssOS::Completed writing the mss file at C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/Vitis/joy_platform/microblaze_0/standalone_domain/bsp
+TRACE::2023-07-09.19:51:53::SCWMssOS::Forcing BSP Sources regeneration.
+TRACE::2023-07-09.19:51:55::SCWMssOS::Saving the mss changes C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/Vitis/joy_platform/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2023-07-09.19:51:55::SCWMssOS::Adding the swdes entry, mss present, able to open swdb C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/Vitis/joy_platform/microblaze_0/standalone_domain/bsp/system.mss with des name system
+TRACE::2023-07-09.19:51:55::SCWMssOS::Writing the mss file completed C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/Vitis/joy_platform/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2023-07-09.19:51:55::SCWMssOS::Commit changes completed.
+TRACE::2023-07-09.19:51:55::SCWPlatform::Trying to open the hw design at C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/Vitis/joy_platform/hw/design_1_wrapper.xsa
+TRACE::2023-07-09.19:51:55::SCWPlatform::DSA given C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/Vitis/joy_platform/hw/design_1_wrapper.xsa
+TRACE::2023-07-09.19:51:55::SCWPlatform::DSA absoulate path C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/Vitis/joy_platform/hw/design_1_wrapper.xsa
+TRACE::2023-07-09.19:51:55::SCWPlatform::DSA directory C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/Vitis/joy_platform/hw
+TRACE::2023-07-09.19:51:55::SCWPlatform:: Platform Path C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/Vitis/joy_platform/hw/design_1_wrapper.xsa
+TRACE::2023-07-09.19:51:55::SCWPlatform:: Unique name xilinx:nexys-a7-100t::0.0
+TRACE::2023-07-09.19:51:55::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2023-07-09.19:51:55::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2023-07-09.19:51:55::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2023-07-09.19:51:55::SCWMssOS::Checking the sw design at  C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/Vitis/joy_platform/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2023-07-09.19:51:55::SCWMssOS::DEBUG:  swdes dump  C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/Vitis/joy_platform/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2023-07-09.19:51:55::SCWMssOS::Sw design exists and opened at  C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/Vitis/joy_platform/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2023-07-09.19:51:55::SCWPlatform::Trying to open the hw design at C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/Vitis/joy_platform/hw/design_1_wrapper.xsa
+TRACE::2023-07-09.19:51:55::SCWPlatform::DSA given C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/Vitis/joy_platform/hw/design_1_wrapper.xsa
+TRACE::2023-07-09.19:51:55::SCWPlatform::DSA absoulate path C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/Vitis/joy_platform/hw/design_1_wrapper.xsa
+TRACE::2023-07-09.19:51:55::SCWPlatform::DSA directory C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/Vitis/joy_platform/hw
+TRACE::2023-07-09.19:51:55::SCWPlatform:: Platform Path C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/Vitis/joy_platform/hw/design_1_wrapper.xsa
+TRACE::2023-07-09.19:51:55::SCWPlatform:: Unique name xilinx:nexys-a7-100t::0.0
+TRACE::2023-07-09.19:51:55::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2023-07-09.19:51:55::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2023-07-09.19:51:55::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2023-07-09.19:51:55::SCWMssOS::Checking the sw design at  C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/Vitis/joy_platform/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2023-07-09.19:51:55::SCWMssOS::DEBUG:  swdes dump  C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/Vitis/joy_platform/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2023-07-09.19:51:55::SCWMssOS::Sw design exists and opened at  C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/Vitis/joy_platform/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2023-07-09.19:51:55::SCWPlatform::Trying to open the hw design at C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/Vitis/joy_platform/hw/design_1_wrapper.xsa
+TRACE::2023-07-09.19:51:55::SCWPlatform::DSA given C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/Vitis/joy_platform/hw/design_1_wrapper.xsa
+TRACE::2023-07-09.19:51:55::SCWPlatform::DSA absoulate path C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/Vitis/joy_platform/hw/design_1_wrapper.xsa
+TRACE::2023-07-09.19:51:55::SCWPlatform::DSA directory C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/Vitis/joy_platform/hw
+TRACE::2023-07-09.19:51:55::SCWPlatform:: Platform Path C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/Vitis/joy_platform/hw/design_1_wrapper.xsa
+TRACE::2023-07-09.19:51:55::SCWPlatform:: Unique name xilinx:nexys-a7-100t::0.0
+TRACE::2023-07-09.19:51:55::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2023-07-09.19:51:55::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2023-07-09.19:51:55::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2023-07-09.19:51:55::SCWMssOS::Checking the sw design at  C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/Vitis/joy_platform/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2023-07-09.19:51:55::SCWMssOS::DEBUG:  swdes dump  C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/Vitis/joy_platform/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2023-07-09.19:51:55::SCWMssOS::Sw design exists and opened at  C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/Vitis/joy_platform/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2023-07-09.19:51:55::SCWWriter::formatted JSON is {
+	"platformName":	"joy_platform",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"joy_platform",
+	"platHandOff":	"C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/project_28/design_1_wrapper.xsa",
+	"platIntHandOff":	"<platformDir>/hw/design_1_wrapper.xsa",
+	"deviceType":	"FPGA",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"joy_platform",
+	"systems":	[{
+			"systemName":	"joy_platform",
+			"systemDesc":	"joy_platform",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"joy_platform",
+			"sysActiveDom":	"standalone_domain",
+			"sysDefaultDom":	"standalone_domain",
+			"domains":	[{
+					"domainName":	"standalone_domain",
+					"domainDispName":	"standalone_domain",
+					"domainDesc":	"standalone_domain",
+					"processors":	"microblaze_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"debugEnable":	"False",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"8.0",
+					"mssFile":	"",
+					"md5Digest":	"5f8d3f7dd52058d418a3afdc532fc6d4",
+					"compatibleApp":	"",
+					"domType":	"mssDomain",
+					"arch":	"32-bit",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	[],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}]
+		}]
+}
+LOG::2023-07-09.19:51:55::SCWPlatform::Started generating the artifacts platform joy_platform
+TRACE::2023-07-09.19:51:55::SCWPlatform::Sanity checking of platform is completed
+LOG::2023-07-09.19:51:55::SCWPlatform::Started generating the artifacts for system configuration joy_platform
+LOG::2023-07-09.19:51:55::SCWSystem::Checking the domain standalone_domain
+LOG::2023-07-09.19:51:55::SCWSystem::Not a boot domain 
+LOG::2023-07-09.19:51:55::SCWSystem::Started Processing the domain standalone_domain
+TRACE::2023-07-09.19:51:55::SCWDomain::Generating domain artifcats
+TRACE::2023-07-09.19:51:55::SCWMssOS::Generating standalone artifcats
+TRACE::2023-07-09.19:51:55::SCWMssOS:: Copying the user libraries. 
+TRACE::2023-07-09.19:51:55::SCWPlatform::Trying to open the hw design at C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/Vitis/joy_platform/hw/design_1_wrapper.xsa
+TRACE::2023-07-09.19:51:55::SCWPlatform::DSA given C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/Vitis/joy_platform/hw/design_1_wrapper.xsa
+TRACE::2023-07-09.19:51:55::SCWPlatform::DSA absoulate path C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/Vitis/joy_platform/hw/design_1_wrapper.xsa
+TRACE::2023-07-09.19:51:55::SCWPlatform::DSA directory C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/Vitis/joy_platform/hw
+TRACE::2023-07-09.19:51:55::SCWPlatform:: Platform Path C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/Vitis/joy_platform/hw/design_1_wrapper.xsa
+TRACE::2023-07-09.19:51:55::SCWPlatform:: Unique name xilinx:nexys-a7-100t::0.0
+TRACE::2023-07-09.19:51:55::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2023-07-09.19:51:55::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2023-07-09.19:51:55::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2023-07-09.19:51:55::SCWMssOS::Checking the sw design at  C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/Vitis/joy_platform/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2023-07-09.19:51:55::SCWMssOS::DEBUG:  swdes dump  C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/Vitis/joy_platform/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2023-07-09.19:51:55::SCWMssOS::Sw design exists and opened at  C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/Vitis/joy_platform/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2023-07-09.19:51:55::SCWMssOS::Completed writing the mss file at C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/Vitis/joy_platform/microblaze_0/standalone_domain/bsp
+TRACE::2023-07-09.19:51:55::SCWMssOS::Mss edits present, copying mssfile into export location C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/Vitis/joy_platform/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2023-07-09.19:51:55::SCWMssOS::bsp generated is upto date with the mss file. Skipping bsp generation.
+TRACE::2023-07-09.19:51:55::SCWMssOS::BSP is already built. skipping the bsp build ... 
+TRACE::2023-07-09.19:51:55::SCWDomain::Skipping the build for domain :  standalone_domain
+TRACE::2023-07-09.19:51:55::SCWMssOS::skipping the bsp build ... 
+TRACE::2023-07-09.19:51:55::SCWMssOS::Copying to export directory.
+TRACE::2023-07-09.19:51:55::SCWMssOS:: Checking if to create the Supporting Applications
+TRACE::2023-07-09.19:51:55::SCWMssOS:: No Linux domain exists, trying to generate FSBL 
+LOG::2023-07-09.19:51:55::SCWSystem::Completed Processing the domain standalone_domain
+LOG::2023-07-09.19:51:55::SCWSystem::Completed Processing the sysconfig joy_platform
+LOG::2023-07-09.19:51:55::SCWPlatform::Completed generating the artifacts for system configuration joy_platform
+TRACE::2023-07-09.19:51:55::SCWPlatform::Started preparing the platform 
+TRACE::2023-07-09.19:51:55::SCWSystem::Writing the bif file for system config joy_platform
+TRACE::2023-07-09.19:51:55::SCWSystem::dir created 
+TRACE::2023-07-09.19:51:55::SCWSystem::Writing the bif 
+TRACE::2023-07-09.19:51:55::SCWPlatform::Started writing the spfm file 
+TRACE::2023-07-09.19:51:55::SCWPlatform::Started writing the xpfm file 
+TRACE::2023-07-09.19:51:55::SCWPlatform::Completed generating the platform
+TRACE::2023-07-09.19:51:55::SCWMssOS::Saving the mss changes C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/Vitis/joy_platform/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2023-07-09.19:51:55::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2023-07-09.19:51:55::SCWMssOS::Completed writemss as part of save.
+TRACE::2023-07-09.19:51:55::SCWMssOS::Commit changes completed.
+TRACE::2023-07-09.19:51:55::SCWPlatform::Trying to open the hw design at C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/Vitis/joy_platform/hw/design_1_wrapper.xsa
+TRACE::2023-07-09.19:51:55::SCWPlatform::DSA given C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/Vitis/joy_platform/hw/design_1_wrapper.xsa
+TRACE::2023-07-09.19:51:55::SCWPlatform::DSA absoulate path C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/Vitis/joy_platform/hw/design_1_wrapper.xsa
+TRACE::2023-07-09.19:51:55::SCWPlatform::DSA directory C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/Vitis/joy_platform/hw
+TRACE::2023-07-09.19:51:55::SCWPlatform:: Platform Path C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/Vitis/joy_platform/hw/design_1_wrapper.xsa
+TRACE::2023-07-09.19:51:55::SCWPlatform:: Unique name xilinx:nexys-a7-100t::0.0
+TRACE::2023-07-09.19:51:55::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2023-07-09.19:51:55::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2023-07-09.19:51:55::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2023-07-09.19:51:55::SCWMssOS::Checking the sw design at  C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/Vitis/joy_platform/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2023-07-09.19:51:55::SCWMssOS::DEBUG:  swdes dump  C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/Vitis/joy_platform/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2023-07-09.19:51:55::SCWMssOS::Sw design exists and opened at  C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/Vitis/joy_platform/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2023-07-09.19:51:55::SCWPlatform::Trying to open the hw design at C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/Vitis/joy_platform/hw/design_1_wrapper.xsa
+TRACE::2023-07-09.19:51:55::SCWPlatform::DSA given C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/Vitis/joy_platform/hw/design_1_wrapper.xsa
+TRACE::2023-07-09.19:51:55::SCWPlatform::DSA absoulate path C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/Vitis/joy_platform/hw/design_1_wrapper.xsa
+TRACE::2023-07-09.19:51:55::SCWPlatform::DSA directory C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/Vitis/joy_platform/hw
+TRACE::2023-07-09.19:51:55::SCWPlatform:: Platform Path C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/Vitis/joy_platform/hw/design_1_wrapper.xsa
+TRACE::2023-07-09.19:51:55::SCWPlatform:: Unique name xilinx:nexys-a7-100t::0.0
+TRACE::2023-07-09.19:51:55::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2023-07-09.19:51:55::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2023-07-09.19:51:55::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2023-07-09.19:51:55::SCWMssOS::Checking the sw design at  C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/Vitis/joy_platform/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2023-07-09.19:51:55::SCWMssOS::DEBUG:  swdes dump  C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/Vitis/joy_platform/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2023-07-09.19:51:55::SCWMssOS::Sw design exists and opened at  C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/Vitis/joy_platform/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2023-07-09.19:51:55::SCWPlatform::Trying to open the hw design at C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/Vitis/joy_platform/hw/design_1_wrapper.xsa
+TRACE::2023-07-09.19:51:55::SCWPlatform::DSA given C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/Vitis/joy_platform/hw/design_1_wrapper.xsa
+TRACE::2023-07-09.19:51:55::SCWPlatform::DSA absoulate path C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/Vitis/joy_platform/hw/design_1_wrapper.xsa
+TRACE::2023-07-09.19:51:55::SCWPlatform::DSA directory C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/Vitis/joy_platform/hw
+TRACE::2023-07-09.19:51:55::SCWPlatform:: Platform Path C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/Vitis/joy_platform/hw/design_1_wrapper.xsa
+TRACE::2023-07-09.19:51:55::SCWPlatform:: Unique name xilinx:nexys-a7-100t::0.0
+TRACE::2023-07-09.19:51:55::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2023-07-09.19:51:55::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2023-07-09.19:51:55::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2023-07-09.19:51:55::SCWMssOS::Checking the sw design at  C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/Vitis/joy_platform/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2023-07-09.19:51:55::SCWMssOS::DEBUG:  swdes dump  C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/Vitis/joy_platform/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2023-07-09.19:51:55::SCWMssOS::Sw design exists and opened at  C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/Vitis/joy_platform/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2023-07-09.19:51:55::SCWWriter::formatted JSON is {
+	"platformName":	"joy_platform",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"joy_platform",
+	"platHandOff":	"C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/project_28/design_1_wrapper.xsa",
+	"platIntHandOff":	"<platformDir>/hw/design_1_wrapper.xsa",
+	"deviceType":	"FPGA",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"joy_platform",
+	"systems":	[{
+			"systemName":	"joy_platform",
+			"systemDesc":	"joy_platform",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"joy_platform",
+			"sysActiveDom":	"standalone_domain",
+			"sysDefaultDom":	"standalone_domain",
+			"domains":	[{
+					"domainName":	"standalone_domain",
+					"domainDispName":	"standalone_domain",
+					"domainDesc":	"standalone_domain",
+					"processors":	"microblaze_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"debugEnable":	"False",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"8.0",
+					"mssFile":	"",
+					"md5Digest":	"5f8d3f7dd52058d418a3afdc532fc6d4",
+					"compatibleApp":	"",
+					"domType":	"mssDomain",
+					"arch":	"32-bit",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	[],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}]
+		}]
+}
+KEYINFO::2023-07-09.19:51:55::SCWPlatform::updated the xpfm file.
+TRACE::2023-07-09.19:51:56::SCWPlatform::Trying to open the hw design at C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/Vitis/joy_platform/hw/design_1_wrapper.xsa
+TRACE::2023-07-09.19:51:56::SCWPlatform::DSA given C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/Vitis/joy_platform/hw/design_1_wrapper.xsa
+TRACE::2023-07-09.19:51:56::SCWPlatform::DSA absoulate path C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/Vitis/joy_platform/hw/design_1_wrapper.xsa
+TRACE::2023-07-09.19:51:56::SCWPlatform::DSA directory C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/Vitis/joy_platform/hw
+TRACE::2023-07-09.19:51:56::SCWPlatform:: Platform Path C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/Vitis/joy_platform/hw/design_1_wrapper.xsa
+TRACE::2023-07-09.19:51:56::SCWPlatform:: Unique name xilinx:nexys-a7-100t::0.0
+TRACE::2023-07-09.19:51:56::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2023-07-09.19:51:56::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2023-07-09.19:51:56::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2023-07-09.19:51:56::SCWMssOS::Checking the sw design at  C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/Vitis/joy_platform/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2023-07-09.19:51:56::SCWMssOS::DEBUG:  swdes dump  C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/Vitis/joy_platform/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2023-07-09.19:51:56::SCWMssOS::Sw design exists and opened at  C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/Vitis/joy_platform/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2023-07-09.19:51:56::SCWMssOS::Saving the mss changes C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/Vitis/joy_platform/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2023-07-09.19:51:56::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2023-07-09.19:51:56::SCWMssOS::Completed writemss as part of save.
+TRACE::2023-07-09.19:51:56::SCWMssOS::Commit changes completed.
+TRACE::2023-07-09.19:51:56::SCWPlatform::Trying to open the hw design at C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/Vitis/joy_platform/hw/design_1_wrapper.xsa
+TRACE::2023-07-09.19:51:56::SCWPlatform::DSA given C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/Vitis/joy_platform/hw/design_1_wrapper.xsa
+TRACE::2023-07-09.19:51:56::SCWPlatform::DSA absoulate path C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/Vitis/joy_platform/hw/design_1_wrapper.xsa
+TRACE::2023-07-09.19:51:56::SCWPlatform::DSA directory C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/Vitis/joy_platform/hw
+TRACE::2023-07-09.19:51:56::SCWPlatform:: Platform Path C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/Vitis/joy_platform/hw/design_1_wrapper.xsa
+TRACE::2023-07-09.19:51:56::SCWPlatform:: Unique name xilinx:nexys-a7-100t::0.0
+TRACE::2023-07-09.19:51:56::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2023-07-09.19:51:56::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2023-07-09.19:51:56::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2023-07-09.19:51:56::SCWMssOS::Checking the sw design at  C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/Vitis/joy_platform/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2023-07-09.19:51:56::SCWMssOS::DEBUG:  swdes dump  C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/Vitis/joy_platform/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2023-07-09.19:51:56::SCWMssOS::Sw design exists and opened at  C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/Vitis/joy_platform/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2023-07-09.19:51:56::SCWPlatform::Trying to open the hw design at C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/Vitis/joy_platform/hw/design_1_wrapper.xsa
+TRACE::2023-07-09.19:51:56::SCWPlatform::DSA given C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/Vitis/joy_platform/hw/design_1_wrapper.xsa
+TRACE::2023-07-09.19:51:56::SCWPlatform::DSA absoulate path C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/Vitis/joy_platform/hw/design_1_wrapper.xsa
+TRACE::2023-07-09.19:51:56::SCWPlatform::DSA directory C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/Vitis/joy_platform/hw
+TRACE::2023-07-09.19:51:56::SCWPlatform:: Platform Path C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/Vitis/joy_platform/hw/design_1_wrapper.xsa
+TRACE::2023-07-09.19:51:56::SCWPlatform:: Unique name xilinx:nexys-a7-100t::0.0
+TRACE::2023-07-09.19:51:56::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2023-07-09.19:51:56::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2023-07-09.19:51:56::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2023-07-09.19:51:56::SCWMssOS::Checking the sw design at  C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/Vitis/joy_platform/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2023-07-09.19:51:56::SCWMssOS::DEBUG:  swdes dump  C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/Vitis/joy_platform/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2023-07-09.19:51:56::SCWMssOS::Sw design exists and opened at  C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/Vitis/joy_platform/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2023-07-09.19:51:56::SCWPlatform::Trying to open the hw design at C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/Vitis/joy_platform/hw/design_1_wrapper.xsa
+TRACE::2023-07-09.19:51:56::SCWPlatform::DSA given C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/Vitis/joy_platform/hw/design_1_wrapper.xsa
+TRACE::2023-07-09.19:51:56::SCWPlatform::DSA absoulate path C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/Vitis/joy_platform/hw/design_1_wrapper.xsa
+TRACE::2023-07-09.19:51:56::SCWPlatform::DSA directory C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/Vitis/joy_platform/hw
+TRACE::2023-07-09.19:51:56::SCWPlatform:: Platform Path C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/Vitis/joy_platform/hw/design_1_wrapper.xsa
+TRACE::2023-07-09.19:51:56::SCWPlatform:: Unique name xilinx:nexys-a7-100t::0.0
+TRACE::2023-07-09.19:51:56::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2023-07-09.19:51:56::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2023-07-09.19:51:56::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2023-07-09.19:51:56::SCWMssOS::Checking the sw design at  C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/Vitis/joy_platform/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2023-07-09.19:51:56::SCWMssOS::DEBUG:  swdes dump  C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/Vitis/joy_platform/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2023-07-09.19:51:56::SCWMssOS::Sw design exists and opened at  C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/Vitis/joy_platform/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2023-07-09.19:51:56::SCWWriter::formatted JSON is {
+	"platformName":	"joy_platform",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"joy_platform",
+	"platHandOff":	"C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/project_28/design_1_wrapper.xsa",
+	"platIntHandOff":	"<platformDir>/hw/design_1_wrapper.xsa",
+	"deviceType":	"FPGA",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"joy_platform",
+	"systems":	[{
+			"systemName":	"joy_platform",
+			"systemDesc":	"joy_platform",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"joy_platform",
+			"sysActiveDom":	"standalone_domain",
+			"sysDefaultDom":	"standalone_domain",
+			"domains":	[{
+					"domainName":	"standalone_domain",
+					"domainDispName":	"standalone_domain",
+					"domainDesc":	"standalone_domain",
+					"processors":	"microblaze_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"debugEnable":	"False",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"8.0",
+					"mssFile":	"",
+					"md5Digest":	"5f8d3f7dd52058d418a3afdc532fc6d4",
+					"compatibleApp":	"",
+					"domType":	"mssDomain",
+					"arch":	"32-bit",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	[],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}]
+		}]
+}
+TRACE::2023-07-09.19:51:56::SCWPlatform::Trying to open the hw design at C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/Vitis/joy_platform/hw/design_1_wrapper.xsa
+TRACE::2023-07-09.19:51:56::SCWPlatform::DSA given C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/Vitis/joy_platform/hw/design_1_wrapper.xsa
+TRACE::2023-07-09.19:51:56::SCWPlatform::DSA absoulate path C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/Vitis/joy_platform/hw/design_1_wrapper.xsa
+TRACE::2023-07-09.19:51:56::SCWPlatform::DSA directory C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/Vitis/joy_platform/hw
+TRACE::2023-07-09.19:51:56::SCWPlatform:: Platform Path C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/Vitis/joy_platform/hw/design_1_wrapper.xsa
+TRACE::2023-07-09.19:51:56::SCWPlatform:: Unique name xilinx:nexys-a7-100t::0.0
+TRACE::2023-07-09.19:51:56::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2023-07-09.19:51:56::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2023-07-09.19:51:56::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2023-07-09.19:51:56::SCWMssOS::Checking the sw design at  C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/Vitis/joy_platform/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2023-07-09.19:51:56::SCWMssOS::DEBUG:  swdes dump  C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/Vitis/joy_platform/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2023-07-09.19:51:56::SCWMssOS::Sw design exists and opened at  C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/Vitis/joy_platform/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2023-07-09.19:51:56::SCWPlatform::Trying to open the hw design at C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/Vitis/joy_platform/hw/design_1_wrapper.xsa
+TRACE::2023-07-09.19:51:56::SCWPlatform::DSA given C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/Vitis/joy_platform/hw/design_1_wrapper.xsa
+TRACE::2023-07-09.19:51:56::SCWPlatform::DSA absoulate path C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/Vitis/joy_platform/hw/design_1_wrapper.xsa
+TRACE::2023-07-09.19:51:56::SCWPlatform::DSA directory C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/Vitis/joy_platform/hw
+TRACE::2023-07-09.19:51:56::SCWPlatform:: Platform Path C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/Vitis/joy_platform/hw/design_1_wrapper.xsa
+TRACE::2023-07-09.19:51:56::SCWPlatform:: Unique name xilinx:nexys-a7-100t::0.0
+TRACE::2023-07-09.19:51:56::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2023-07-09.19:51:56::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2023-07-09.19:51:56::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2023-07-09.19:51:56::SCWMssOS::Checking the sw design at  C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/Vitis/joy_platform/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2023-07-09.19:51:56::SCWMssOS::DEBUG:  swdes dump  C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/Vitis/joy_platform/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2023-07-09.19:51:56::SCWMssOS::Sw design exists and opened at  C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/Vitis/joy_platform/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2023-07-09.19:51:56::SCWPlatform::Trying to open the hw design at C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/Vitis/joy_platform/hw/design_1_wrapper.xsa
+TRACE::2023-07-09.19:51:56::SCWPlatform::DSA given C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/Vitis/joy_platform/hw/design_1_wrapper.xsa
+TRACE::2023-07-09.19:51:56::SCWPlatform::DSA absoulate path C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/Vitis/joy_platform/hw/design_1_wrapper.xsa
+TRACE::2023-07-09.19:51:56::SCWPlatform::DSA directory C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/Vitis/joy_platform/hw
+TRACE::2023-07-09.19:51:56::SCWPlatform:: Platform Path C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/Vitis/joy_platform/hw/design_1_wrapper.xsa
+TRACE::2023-07-09.19:51:56::SCWPlatform:: Unique name xilinx:nexys-a7-100t::0.0
+TRACE::2023-07-09.19:51:56::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2023-07-09.19:51:56::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2023-07-09.19:51:56::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2023-07-09.19:51:56::SCWMssOS::Checking the sw design at  C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/Vitis/joy_platform/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2023-07-09.19:51:56::SCWMssOS::DEBUG:  swdes dump  C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/Vitis/joy_platform/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2023-07-09.19:51:56::SCWMssOS::Sw design exists and opened at  C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/Vitis/joy_platform/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2023-07-09.19:51:56::SCWMssOS::Saving the mss changes C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/Vitis/joy_platform/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2023-07-09.19:51:56::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2023-07-09.19:51:56::SCWMssOS::Completed writemss as part of save.
+TRACE::2023-07-09.19:51:56::SCWMssOS::Commit changes completed.
+TRACE::2023-07-09.19:51:56::SCWPlatform::Trying to open the hw design at C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/Vitis/joy_platform/hw/design_1_wrapper.xsa
+TRACE::2023-07-09.19:51:56::SCWPlatform::DSA given C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/Vitis/joy_platform/hw/design_1_wrapper.xsa
+TRACE::2023-07-09.19:51:56::SCWPlatform::DSA absoulate path C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/Vitis/joy_platform/hw/design_1_wrapper.xsa
+TRACE::2023-07-09.19:51:56::SCWPlatform::DSA directory C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/Vitis/joy_platform/hw
+TRACE::2023-07-09.19:51:56::SCWPlatform:: Platform Path C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/Vitis/joy_platform/hw/design_1_wrapper.xsa
+TRACE::2023-07-09.19:51:56::SCWPlatform:: Unique name xilinx:nexys-a7-100t::0.0
+TRACE::2023-07-09.19:51:56::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2023-07-09.19:51:56::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2023-07-09.19:51:56::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2023-07-09.19:51:56::SCWMssOS::Checking the sw design at  C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/Vitis/joy_platform/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2023-07-09.19:51:56::SCWMssOS::DEBUG:  swdes dump  C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/Vitis/joy_platform/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2023-07-09.19:51:56::SCWMssOS::Sw design exists and opened at  C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/Vitis/joy_platform/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2023-07-09.19:51:56::SCWPlatform::Trying to open the hw design at C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/Vitis/joy_platform/hw/design_1_wrapper.xsa
+TRACE::2023-07-09.19:51:56::SCWPlatform::DSA given C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/Vitis/joy_platform/hw/design_1_wrapper.xsa
+TRACE::2023-07-09.19:51:56::SCWPlatform::DSA absoulate path C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/Vitis/joy_platform/hw/design_1_wrapper.xsa
+TRACE::2023-07-09.19:51:56::SCWPlatform::DSA directory C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/Vitis/joy_platform/hw
+TRACE::2023-07-09.19:51:56::SCWPlatform:: Platform Path C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/Vitis/joy_platform/hw/design_1_wrapper.xsa
+TRACE::2023-07-09.19:51:56::SCWPlatform:: Unique name xilinx:nexys-a7-100t::0.0
+TRACE::2023-07-09.19:51:56::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2023-07-09.19:51:56::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2023-07-09.19:51:56::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2023-07-09.19:51:56::SCWMssOS::Checking the sw design at  C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/Vitis/joy_platform/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2023-07-09.19:51:56::SCWMssOS::DEBUG:  swdes dump  C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/Vitis/joy_platform/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2023-07-09.19:51:56::SCWMssOS::Sw design exists and opened at  C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/Vitis/joy_platform/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2023-07-09.19:51:56::SCWPlatform::Trying to open the hw design at C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/Vitis/joy_platform/hw/design_1_wrapper.xsa
+TRACE::2023-07-09.19:51:56::SCWPlatform::DSA given C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/Vitis/joy_platform/hw/design_1_wrapper.xsa
+TRACE::2023-07-09.19:51:56::SCWPlatform::DSA absoulate path C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/Vitis/joy_platform/hw/design_1_wrapper.xsa
+TRACE::2023-07-09.19:51:56::SCWPlatform::DSA directory C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/Vitis/joy_platform/hw
+TRACE::2023-07-09.19:51:56::SCWPlatform:: Platform Path C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/Vitis/joy_platform/hw/design_1_wrapper.xsa
+TRACE::2023-07-09.19:51:56::SCWPlatform:: Unique name xilinx:nexys-a7-100t::0.0
+TRACE::2023-07-09.19:51:56::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2023-07-09.19:51:56::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2023-07-09.19:51:56::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2023-07-09.19:51:56::SCWMssOS::Checking the sw design at  C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/Vitis/joy_platform/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2023-07-09.19:51:56::SCWMssOS::DEBUG:  swdes dump  C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/Vitis/joy_platform/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2023-07-09.19:51:56::SCWMssOS::Sw design exists and opened at  C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/Vitis/joy_platform/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2023-07-09.19:51:56::SCWWriter::formatted JSON is {
+	"platformName":	"joy_platform",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"joy_platform",
+	"platHandOff":	"C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/project_28/design_1_wrapper.xsa",
+	"platIntHandOff":	"<platformDir>/hw/design_1_wrapper.xsa",
+	"deviceType":	"FPGA",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"joy_platform",
+	"systems":	[{
+			"systemName":	"joy_platform",
+			"systemDesc":	"joy_platform",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"joy_platform",
+			"sysActiveDom":	"standalone_domain",
+			"sysDefaultDom":	"standalone_domain",
+			"domains":	[{
+					"domainName":	"standalone_domain",
+					"domainDispName":	"standalone on microblaze_0",
+					"domainDesc":	"standalone_domain",
+					"processors":	"microblaze_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"debugEnable":	"False",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"8.0",
+					"mssFile":	"",
+					"md5Digest":	"5f8d3f7dd52058d418a3afdc532fc6d4",
+					"compatibleApp":	"",
+					"domType":	"mssDomain",
+					"arch":	"32-bit",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	[],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}]
+		}]
+}
+TRACE::2023-07-09.19:51:56::SCWMssOS::Saving the mss changes C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/Vitis/joy_platform/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2023-07-09.19:51:56::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2023-07-09.19:51:56::SCWMssOS::Completed writemss as part of save.
+TRACE::2023-07-09.19:51:56::SCWMssOS::Commit changes completed.
+TRACE::2023-07-09.19:51:56::SCWPlatform::Trying to open the hw design at C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/Vitis/joy_platform/hw/design_1_wrapper.xsa
+TRACE::2023-07-09.19:51:56::SCWPlatform::DSA given C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/Vitis/joy_platform/hw/design_1_wrapper.xsa
+TRACE::2023-07-09.19:51:56::SCWPlatform::DSA absoulate path C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/Vitis/joy_platform/hw/design_1_wrapper.xsa
+TRACE::2023-07-09.19:51:56::SCWPlatform::DSA directory C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/Vitis/joy_platform/hw
+TRACE::2023-07-09.19:51:56::SCWPlatform:: Platform Path C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/Vitis/joy_platform/hw/design_1_wrapper.xsa
+TRACE::2023-07-09.19:51:56::SCWPlatform:: Unique name xilinx:nexys-a7-100t::0.0
+TRACE::2023-07-09.19:51:56::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2023-07-09.19:51:56::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2023-07-09.19:51:56::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2023-07-09.19:51:56::SCWMssOS::Checking the sw design at  C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/Vitis/joy_platform/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2023-07-09.19:51:56::SCWMssOS::DEBUG:  swdes dump  C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/Vitis/joy_platform/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2023-07-09.19:51:56::SCWMssOS::Sw design exists and opened at  C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/Vitis/joy_platform/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2023-07-09.19:51:56::SCWPlatform::Trying to open the hw design at C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/Vitis/joy_platform/hw/design_1_wrapper.xsa
+TRACE::2023-07-09.19:51:56::SCWPlatform::DSA given C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/Vitis/joy_platform/hw/design_1_wrapper.xsa
+TRACE::2023-07-09.19:51:56::SCWPlatform::DSA absoulate path C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/Vitis/joy_platform/hw/design_1_wrapper.xsa
+TRACE::2023-07-09.19:51:56::SCWPlatform::DSA directory C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/Vitis/joy_platform/hw
+TRACE::2023-07-09.19:51:56::SCWPlatform:: Platform Path C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/Vitis/joy_platform/hw/design_1_wrapper.xsa
+TRACE::2023-07-09.19:51:56::SCWPlatform:: Unique name xilinx:nexys-a7-100t::0.0
+TRACE::2023-07-09.19:51:56::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2023-07-09.19:51:56::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2023-07-09.19:51:56::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2023-07-09.19:51:56::SCWMssOS::Checking the sw design at  C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/Vitis/joy_platform/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2023-07-09.19:51:56::SCWMssOS::DEBUG:  swdes dump  C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/Vitis/joy_platform/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2023-07-09.19:51:56::SCWMssOS::Sw design exists and opened at  C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/Vitis/joy_platform/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2023-07-09.19:51:56::SCWPlatform::Trying to open the hw design at C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/Vitis/joy_platform/hw/design_1_wrapper.xsa
+TRACE::2023-07-09.19:51:56::SCWPlatform::DSA given C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/Vitis/joy_platform/hw/design_1_wrapper.xsa
+TRACE::2023-07-09.19:51:56::SCWPlatform::DSA absoulate path C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/Vitis/joy_platform/hw/design_1_wrapper.xsa
+TRACE::2023-07-09.19:51:56::SCWPlatform::DSA directory C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/Vitis/joy_platform/hw
+TRACE::2023-07-09.19:51:56::SCWPlatform:: Platform Path C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/Vitis/joy_platform/hw/design_1_wrapper.xsa
+TRACE::2023-07-09.19:51:56::SCWPlatform:: Unique name xilinx:nexys-a7-100t::0.0
+TRACE::2023-07-09.19:51:56::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2023-07-09.19:51:56::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2023-07-09.19:51:56::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2023-07-09.19:51:56::SCWMssOS::Checking the sw design at  C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/Vitis/joy_platform/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2023-07-09.19:51:56::SCWMssOS::DEBUG:  swdes dump  C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/Vitis/joy_platform/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2023-07-09.19:51:56::SCWMssOS::Sw design exists and opened at  C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/Vitis/joy_platform/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2023-07-09.19:51:56::SCWWriter::formatted JSON is {
+	"platformName":	"joy_platform",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"joy_platform",
+	"platHandOff":	"C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/project_28/design_1_wrapper.xsa",
+	"platIntHandOff":	"<platformDir>/hw/design_1_wrapper.xsa",
+	"deviceType":	"FPGA",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"joy_platform",
+	"systems":	[{
+			"systemName":	"joy_platform",
+			"systemDesc":	"joy_platform",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"joy_platform",
+			"sysActiveDom":	"standalone_domain",
+			"sysDefaultDom":	"standalone_domain",
+			"domains":	[{
+					"domainName":	"standalone_domain",
+					"domainDispName":	"standalone on microblaze_0",
+					"domainDesc":	"standalone_domain",
+					"processors":	"microblaze_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"debugEnable":	"False",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"8.0",
+					"mssFile":	"",
+					"md5Digest":	"5f8d3f7dd52058d418a3afdc532fc6d4",
+					"compatibleApp":	"",
+					"domType":	"mssDomain",
+					"arch":	"32-bit",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	[],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}]
+		}]
+}
+TRACE::2023-07-09.19:51:56::SCWPlatform::Clearing the existing platform
+TRACE::2023-07-09.19:51:56::SCWSystem::Clearing the existing sysconfig
+TRACE::2023-07-09.19:51:56::SCWMssOS::Removing the swdes entry for  C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/Vitis/joy_platform/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2023-07-09.19:51:56::SCWSystem::Clearing the domains completed.
+TRACE::2023-07-09.19:51:56::SCWPlatform::Clearing the opened hw db.
+TRACE::2023-07-09.19:51:56::SCWPlatform::DSA given C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/Vitis/joy_platform/hw/design_1_wrapper.xsa
+TRACE::2023-07-09.19:51:56::SCWPlatform::DSA absoulate path C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/Vitis/joy_platform/hw/design_1_wrapper.xsa
+TRACE::2023-07-09.19:51:56::SCWPlatform:: Platform location is C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/Vitis/joy_platform/hw
+TRACE::2023-07-09.19:51:56::SCWPlatform:: Platform Path C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/Vitis/joy_platform/hw/design_1_wrapper.xsa
+TRACE::2023-07-09.19:51:56::SCWPlatform:: Unique name xilinx:nexys-a7-100t::0.0
+TRACE::2023-07-09.19:51:56::SCWPlatform::Removing the HwDB with name C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/Vitis/joy_platform/hw/design_1_wrapper.xsa
+TRACE::2023-07-09.19:51:56::SCWPlatform::Trying to open the hw design at C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/Vitis/joy_platform/hw/design_1_wrapper.xsa
+TRACE::2023-07-09.19:51:56::SCWPlatform::DSA given C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/Vitis/joy_platform/hw/design_1_wrapper.xsa
+TRACE::2023-07-09.19:51:56::SCWPlatform::DSA absoulate path C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/Vitis/joy_platform/hw/design_1_wrapper.xsa
+TRACE::2023-07-09.19:51:56::SCWPlatform::DSA directory C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/Vitis/joy_platform/hw
+TRACE::2023-07-09.19:51:56::SCWPlatform:: Platform Path C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/Vitis/joy_platform/hw/design_1_wrapper.xsa
+TRACE::2023-07-09.19:51:56::SCWPlatform:: Unique name xilinx:nexys-a7-100t::0.0
+TRACE::2023-07-09.19:51:56::SCWPlatform::Do not have an existing db opened. 
+TRACE::2023-07-09.19:51:57::SCWPlatform::Opened new HwDB with name design_1_wrapper_1
+TRACE::2023-07-09.19:51:57::SCWReader::Active system found as  joy_platform
+TRACE::2023-07-09.19:51:57::SCWReader::Handling sysconfig joy_platform
+TRACE::2023-07-09.19:51:57::SCWDomain::checking for install qemu data   : 
+TRACE::2023-07-09.19:51:57::SCWPlatform::Trying to open the hw design at C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/Vitis/joy_platform/hw/design_1_wrapper.xsa
+TRACE::2023-07-09.19:51:57::SCWPlatform::DSA given C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/Vitis/joy_platform/hw/design_1_wrapper.xsa
+TRACE::2023-07-09.19:51:57::SCWPlatform::DSA absoulate path C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/Vitis/joy_platform/hw/design_1_wrapper.xsa
+TRACE::2023-07-09.19:51:57::SCWPlatform::DSA directory C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/Vitis/joy_platform/hw
+TRACE::2023-07-09.19:51:57::SCWPlatform:: Platform Path C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/Vitis/joy_platform/hw/design_1_wrapper.xsa
+TRACE::2023-07-09.19:51:57::SCWPlatform:: Unique name xilinx:nexys-a7-100t::0.0
+TRACE::2023-07-09.19:51:57::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_1
+TRACE::2023-07-09.19:51:57::SCWPlatform::Opened existing hwdb design_1_wrapper_1
+TRACE::2023-07-09.19:51:57::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2023-07-09.19:51:57::SCWPlatform::Trying to open the hw design at C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/Vitis/joy_platform/hw/design_1_wrapper.xsa
+TRACE::2023-07-09.19:51:57::SCWPlatform::DSA given C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/Vitis/joy_platform/hw/design_1_wrapper.xsa
+TRACE::2023-07-09.19:51:57::SCWPlatform::DSA absoulate path C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/Vitis/joy_platform/hw/design_1_wrapper.xsa
+TRACE::2023-07-09.19:51:57::SCWPlatform::DSA directory C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/Vitis/joy_platform/hw
+TRACE::2023-07-09.19:51:57::SCWPlatform:: Platform Path C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/Vitis/joy_platform/hw/design_1_wrapper.xsa
+TRACE::2023-07-09.19:51:57::SCWPlatform:: Unique name xilinx:nexys-a7-100t::0.0
+TRACE::2023-07-09.19:51:57::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_1
+TRACE::2023-07-09.19:51:57::SCWPlatform::Opened existing hwdb design_1_wrapper_1
+TRACE::2023-07-09.19:51:57::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2023-07-09.19:51:57::SCWPlatform::Trying to open the hw design at C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/Vitis/joy_platform/hw/design_1_wrapper.xsa
+TRACE::2023-07-09.19:51:57::SCWPlatform::DSA given C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/Vitis/joy_platform/hw/design_1_wrapper.xsa
+TRACE::2023-07-09.19:51:57::SCWPlatform::DSA absoulate path C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/Vitis/joy_platform/hw/design_1_wrapper.xsa
+TRACE::2023-07-09.19:51:57::SCWPlatform::DSA directory C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/Vitis/joy_platform/hw
+TRACE::2023-07-09.19:51:57::SCWPlatform:: Platform Path C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/Vitis/joy_platform/hw/design_1_wrapper.xsa
+TRACE::2023-07-09.19:51:57::SCWPlatform:: Unique name xilinx:nexys-a7-100t::0.0
+TRACE::2023-07-09.19:51:57::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_1
+TRACE::2023-07-09.19:51:57::SCWPlatform::Opened existing hwdb design_1_wrapper_1
+TRACE::2023-07-09.19:51:57::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2023-07-09.19:51:57::SCWPlatform::Trying to open the hw design at C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/Vitis/joy_platform/hw/design_1_wrapper.xsa
+TRACE::2023-07-09.19:51:57::SCWPlatform::DSA given C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/Vitis/joy_platform/hw/design_1_wrapper.xsa
+TRACE::2023-07-09.19:51:57::SCWPlatform::DSA absoulate path C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/Vitis/joy_platform/hw/design_1_wrapper.xsa
+TRACE::2023-07-09.19:51:57::SCWPlatform::DSA directory C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/Vitis/joy_platform/hw
+TRACE::2023-07-09.19:51:57::SCWPlatform:: Platform Path C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/Vitis/joy_platform/hw/design_1_wrapper.xsa
+TRACE::2023-07-09.19:51:57::SCWPlatform:: Unique name xilinx:nexys-a7-100t::0.0
+TRACE::2023-07-09.19:51:57::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_1
+TRACE::2023-07-09.19:51:57::SCWPlatform::Opened existing hwdb design_1_wrapper_1
+TRACE::2023-07-09.19:51:57::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2023-07-09.19:51:57::SCWMssOS::Checking the sw design at  C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/Vitis/joy_platform/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2023-07-09.19:51:57::SCWMssOS::DEBUG:  swdes dump  
+TRACE::2023-07-09.19:51:57::SCWMssOS::No sw design opened at  C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/Vitis/joy_platform/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2023-07-09.19:51:57::SCWMssOS::mss exists loading the mss file  C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/Vitis/joy_platform/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2023-07-09.19:51:57::SCWMssOS::Opened the sw design from mss  C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/Vitis/joy_platform/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2023-07-09.19:51:57::SCWMssOS::Adding the swdes entry C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/Vitis/joy_platform/microblaze_0/standalone_domain/bsp/system.mss with des name system
+TRACE::2023-07-09.19:51:57::SCWMssOS::updating the scw layer about changes
+TRACE::2023-07-09.19:51:57::SCWMssOS::Opened the sw design.  C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/Vitis/joy_platform/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2023-07-09.19:51:57::SCWMssOS::Saving the mss changes C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/Vitis/joy_platform/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2023-07-09.19:51:57::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2023-07-09.19:51:57::SCWMssOS::Completed writemss as part of save.
+TRACE::2023-07-09.19:51:57::SCWMssOS::Commit changes completed.
+TRACE::2023-07-09.19:51:57::SCWReader::Adding prebuilt librarypaths as   
+TRACE::2023-07-09.19:51:57::SCWReader::Adding prebuilt incpaths  as   
+TRACE::2023-07-09.19:51:57::SCWPlatform::Trying to open the hw design at C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/Vitis/joy_platform/hw/design_1_wrapper.xsa
+TRACE::2023-07-09.19:51:57::SCWPlatform::DSA given C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/Vitis/joy_platform/hw/design_1_wrapper.xsa
+TRACE::2023-07-09.19:51:57::SCWPlatform::DSA absoulate path C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/Vitis/joy_platform/hw/design_1_wrapper.xsa
+TRACE::2023-07-09.19:51:57::SCWPlatform::DSA directory C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/Vitis/joy_platform/hw
+TRACE::2023-07-09.19:51:57::SCWPlatform:: Platform Path C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/Vitis/joy_platform/hw/design_1_wrapper.xsa
+TRACE::2023-07-09.19:51:57::SCWPlatform:: Unique name xilinx:nexys-a7-100t::0.0
+TRACE::2023-07-09.19:51:57::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_1
+TRACE::2023-07-09.19:51:57::SCWPlatform::Opened existing hwdb design_1_wrapper_1
+TRACE::2023-07-09.19:51:57::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2023-07-09.19:51:57::SCWMssOS::Checking the sw design at  C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/Vitis/joy_platform/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2023-07-09.19:51:57::SCWMssOS::DEBUG:  swdes dump  C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/Vitis/joy_platform/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2023-07-09.19:51:57::SCWMssOS::Sw design exists and opened at  C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/Vitis/joy_platform/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2023-07-09.19:51:57::SCWReader::No isolation master present  
+LOG::2023-07-09.19:52:09::SCWPlatform::Started generating the artifacts platform joy_platform
+TRACE::2023-07-09.19:52:09::SCWPlatform::Sanity checking of platform is completed
+LOG::2023-07-09.19:52:09::SCWPlatform::Started generating the artifacts for system configuration joy_platform
+LOG::2023-07-09.19:52:09::SCWSystem::Checking the domain standalone_domain
+LOG::2023-07-09.19:52:09::SCWSystem::Not a boot domain 
+LOG::2023-07-09.19:52:09::SCWSystem::Started Processing the domain standalone_domain
+TRACE::2023-07-09.19:52:09::SCWDomain::Generating domain artifcats
+TRACE::2023-07-09.19:52:09::SCWMssOS::Generating standalone artifcats
+TRACE::2023-07-09.19:52:09::SCWMssOS:: Copying the user libraries. 
+TRACE::2023-07-09.19:52:09::SCWPlatform::Trying to open the hw design at C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/Vitis/joy_platform/hw/design_1_wrapper.xsa
+TRACE::2023-07-09.19:52:09::SCWPlatform::DSA given C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/Vitis/joy_platform/hw/design_1_wrapper.xsa
+TRACE::2023-07-09.19:52:09::SCWPlatform::DSA absoulate path C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/Vitis/joy_platform/hw/design_1_wrapper.xsa
+TRACE::2023-07-09.19:52:09::SCWPlatform::DSA directory C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/Vitis/joy_platform/hw
+TRACE::2023-07-09.19:52:09::SCWPlatform:: Platform Path C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/Vitis/joy_platform/hw/design_1_wrapper.xsa
+TRACE::2023-07-09.19:52:09::SCWPlatform:: Unique name xilinx:nexys-a7-100t::0.0
+TRACE::2023-07-09.19:52:09::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_1
+TRACE::2023-07-09.19:52:09::SCWPlatform::Opened existing hwdb design_1_wrapper_1
+TRACE::2023-07-09.19:52:09::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2023-07-09.19:52:09::SCWMssOS::Checking the sw design at  C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/Vitis/joy_platform/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2023-07-09.19:52:09::SCWMssOS::DEBUG:  swdes dump  C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/Vitis/joy_platform/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2023-07-09.19:52:09::SCWMssOS::Sw design exists and opened at  C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/Vitis/joy_platform/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2023-07-09.19:52:09::SCWMssOS::Completed writing the mss file at C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/Vitis/joy_platform/microblaze_0/standalone_domain/bsp
+TRACE::2023-07-09.19:52:09::SCWMssOS::Mss edits present, copying mssfile into export location C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/Vitis/joy_platform/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2023-07-09.19:52:09::SCWMssOS::bsp generated is upto date with the mss file. Skipping bsp generation.
+TRACE::2023-07-09.19:52:09::SCWMssOS::BSP is already built. skipping the bsp build ... 
+TRACE::2023-07-09.19:52:09::SCWDomain::Building the domain as part of full build :  standalone_domain
+TRACE::2023-07-09.19:52:09::SCWMssOS::doing bsp build ... 
+TRACE::2023-07-09.19:52:09::SCWMssOS::System Command Ran  C: & cd  C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/Vitis/joy_platform/microblaze_0/standalone_domain/bsp & make 
+TRACE::2023-07-09.19:52:09::SCWMssOS::make --no-print-directory seq_libs
+
+TRACE::2023-07-09.19:52:09::SCWMssOS::"Running Make include in microblaze_0/libsrc/bram_v4_8/src"
+
+TRACE::2023-07-09.19:52:09::SCWMssOS::make -C microblaze_0/libsrc/bram_v4_8/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPILE
+TRACE::2023-07-09.19:52:09::SCWMssOS::R_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall 
+TRACE::2023-07-09.19:52:09::SCWMssOS::-Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2023-07-09.19:52:09::SCWMssOS::"Running Make include in microblaze_0/libsrc/cpu_v2_16/src"
+
+TRACE::2023-07-09.19:52:09::SCWMssOS::make -C microblaze_0/libsrc/cpu_v2_16/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPILE
+TRACE::2023-07-09.19:52:09::SCWMssOS::R_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall 
+TRACE::2023-07-09.19:52:09::SCWMssOS::-Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2023-07-09.19:52:09::SCWMssOS::"Running Make include in microblaze_0/libsrc/iic_v3_9/src"
+
+TRACE::2023-07-09.19:52:09::SCWMssOS::make -C microblaze_0/libsrc/iic_v3_9/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPILER
+TRACE::2023-07-09.19:52:09::SCWMssOS::_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall -
+TRACE::2023-07-09.19:52:09::SCWMssOS::Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2023-07-09.19:52:09::SCWMssOS::"Running Make include in microblaze_0/libsrc/intc_v3_15/src"
+
+TRACE::2023-07-09.19:52:09::SCWMssOS::make -C microblaze_0/libsrc/intc_v3_15/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPIL
+TRACE::2023-07-09.19:52:09::SCWMssOS::ER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall
+TRACE::2023-07-09.19:52:09::SCWMssOS:: -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2023-07-09.19:52:09::SCWMssOS::"Running Make include in microblaze_0/libsrc/PmodESP32_v1_0/src"
+
+TRACE::2023-07-09.19:52:09::SCWMssOS::make -C microblaze_0/libsrc/PmodESP32_v1_0/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "CO
+TRACE::2023-07-09.19:52:09::SCWMssOS::MPILER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -
+TRACE::2023-07-09.19:52:09::SCWMssOS::Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2023-07-09.19:52:09::SCWMssOS::"Running Make include in microblaze_0/libsrc/PmodOLEDrgb_v1_0/src"
+
+TRACE::2023-07-09.19:52:09::SCWMssOS::make -C microblaze_0/libsrc/PmodOLEDrgb_v1_0/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "
+TRACE::2023-07-09.19:52:09::SCWMssOS::COMPILER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections
+TRACE::2023-07-09.19:52:09::SCWMssOS:: -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2023-07-09.19:52:10::SCWMssOS::"Running Make include in microblaze_0/libsrc/standalone_v8_0/src"
+
+TRACE::2023-07-09.19:52:10::SCWMssOS::make -C microblaze_0/libsrc/standalone_v8_0/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "C
+TRACE::2023-07-09.19:52:10::SCWMssOS::OMPILER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections 
+TRACE::2023-07-09.19:52:10::SCWMssOS::-Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2023-07-09.19:52:10::SCWMssOS::"Running Make include in microblaze_0/libsrc/uartlite_v3_7/src"
+
+TRACE::2023-07-09.19:52:10::SCWMssOS::make -C microblaze_0/libsrc/uartlite_v3_7/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COM
+TRACE::2023-07-09.19:52:10::SCWMssOS::PILER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -W
+TRACE::2023-07-09.19:52:10::SCWMssOS::all -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2023-07-09.19:52:10::SCWMssOS::"Running Make libs in microblaze_0/libsrc/PmodESP32_v1_0/src"
+
+TRACE::2023-07-09.19:52:10::SCWMssOS::make -C microblaze_0/libsrc/PmodESP32_v1_0/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPI
+TRACE::2023-07-09.19:52:10::SCWMssOS::LER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wal
+TRACE::2023-07-09.19:52:10::SCWMssOS::l -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2023-07-09.19:52:10::SCWMssOS::"Compiling PmodESP32"
+
+TRACE::2023-07-09.19:52:11::SCWMssOS::"Running Make libs in microblaze_0/libsrc/PmodOLEDrgb_v1_0/src"
+
+TRACE::2023-07-09.19:52:11::SCWMssOS::make -C microblaze_0/libsrc/PmodOLEDrgb_v1_0/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COM
+TRACE::2023-07-09.19:52:11::SCWMssOS::PILER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -W
+TRACE::2023-07-09.19:52:11::SCWMssOS::all -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2023-07-09.19:52:11::SCWMssOS::"Compiling pmodOLEDrgb"
+
+TRACE::2023-07-09.19:52:12::SCWMssOS::'Finished building libraries sequentially.'
+
+TRACE::2023-07-09.19:52:12::SCWMssOS::make -j 10 --no-print-directory par_libs
+
+TRACE::2023-07-09.19:52:12::SCWMssOS::"Running Make include in microblaze_0/libsrc/bram_v4_8/src"
+
+TRACE::2023-07-09.19:52:12::SCWMssOS::make -C microblaze_0/libsrc/bram_v4_8/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPILE
+TRACE::2023-07-09.19:52:12::SCWMssOS::R_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall 
+TRACE::2023-07-09.19:52:12::SCWMssOS::-Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2023-07-09.19:52:12::SCWMssOS::"Running Make include in microblaze_0/libsrc/cpu_v2_16/src"
+
+TRACE::2023-07-09.19:52:12::SCWMssOS::make -C microblaze_0/libsrc/cpu_v2_16/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPILE
+TRACE::2023-07-09.19:52:12::SCWMssOS::R_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall 
+TRACE::2023-07-09.19:52:12::SCWMssOS::-Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2023-07-09.19:52:12::SCWMssOS::"Running Make include in microblaze_0/libsrc/iic_v3_9/src"
+
+TRACE::2023-07-09.19:52:12::SCWMssOS::make -C microblaze_0/libsrc/iic_v3_9/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPILER
+TRACE::2023-07-09.19:52:12::SCWMssOS::_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall -
+TRACE::2023-07-09.19:52:12::SCWMssOS::Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2023-07-09.19:52:12::SCWMssOS::"Running Make include in microblaze_0/libsrc/intc_v3_15/src"
+
+TRACE::2023-07-09.19:52:12::SCWMssOS::make -C microblaze_0/libsrc/intc_v3_15/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPIL
+TRACE::2023-07-09.19:52:12::SCWMssOS::ER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall
+TRACE::2023-07-09.19:52:12::SCWMssOS:: -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2023-07-09.19:52:12::SCWMssOS::"Running Make include in microblaze_0/libsrc/PmodESP32_v1_0/src"
+
+TRACE::2023-07-09.19:52:12::SCWMssOS::make -C microblaze_0/libsrc/PmodESP32_v1_0/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "CO
+TRACE::2023-07-09.19:52:12::SCWMssOS::MPILER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -
+TRACE::2023-07-09.19:52:12::SCWMssOS::Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2023-07-09.19:52:12::SCWMssOS::"Running Make include in microblaze_0/libsrc/PmodOLEDrgb_v1_0/src"
+
+TRACE::2023-07-09.19:52:12::SCWMssOS::make -C microblaze_0/libsrc/PmodOLEDrgb_v1_0/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "
+TRACE::2023-07-09.19:52:12::SCWMssOS::COMPILER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections
+TRACE::2023-07-09.19:52:12::SCWMssOS:: -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2023-07-09.19:52:12::SCWMssOS::"Running Make include in microblaze_0/libsrc/standalone_v8_0/src"
+
+TRACE::2023-07-09.19:52:12::SCWMssOS::make -C microblaze_0/libsrc/standalone_v8_0/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "C
+TRACE::2023-07-09.19:52:12::SCWMssOS::OMPILER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections 
+TRACE::2023-07-09.19:52:12::SCWMssOS::-Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2023-07-09.19:52:12::SCWMssOS::"Running Make include in microblaze_0/libsrc/uartlite_v3_7/src"
+
+TRACE::2023-07-09.19:52:12::SCWMssOS::make -C microblaze_0/libsrc/uartlite_v3_7/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COM
+TRACE::2023-07-09.19:52:12::SCWMssOS::PILER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -W
+TRACE::2023-07-09.19:52:12::SCWMssOS::all -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2023-07-09.19:52:12::SCWMssOS::"Running Make libs in microblaze_0/libsrc/bram_v4_8/src"
+
+TRACE::2023-07-09.19:52:12::SCWMssOS::make -C microblaze_0/libsrc/bram_v4_8/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPILER_F
+TRACE::2023-07-09.19:52:12::SCWMssOS::LAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall -We
+TRACE::2023-07-09.19:52:12::SCWMssOS::xtra -fno-tree-loop-distribute-patterns"
+
+TRACE::2023-07-09.19:52:12::SCWMssOS::"Running Make libs in microblaze_0/libsrc/cpu_v2_16/src"
+
+TRACE::2023-07-09.19:52:12::SCWMssOS::make -C microblaze_0/libsrc/cpu_v2_16/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPILER_F
+TRACE::2023-07-09.19:52:12::SCWMssOS::LAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall -We
+TRACE::2023-07-09.19:52:12::SCWMssOS::xtra -fno-tree-loop-distribute-patterns"
+
+TRACE::2023-07-09.19:52:12::SCWMssOS::"Running Make libs in microblaze_0/libsrc/iic_v3_9/src"
+
+TRACE::2023-07-09.19:52:12::SCWMssOS::make -C microblaze_0/libsrc/iic_v3_9/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPILER_FL
+TRACE::2023-07-09.19:52:12::SCWMssOS::AGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall -Wex
+TRACE::2023-07-09.19:52:12::SCWMssOS::tra -fno-tree-loop-distribute-patterns"
+
+TRACE::2023-07-09.19:52:12::SCWMssOS::"Running Make libs in microblaze_0/libsrc/intc_v3_15/src"
+
+TRACE::2023-07-09.19:52:12::SCWMssOS::make -C microblaze_0/libsrc/intc_v3_15/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPILER_
+TRACE::2023-07-09.19:52:12::SCWMssOS::FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall -W
+TRACE::2023-07-09.19:52:12::SCWMssOS::extra -fno-tree-loop-distribute-patterns"
+
+TRACE::2023-07-09.19:52:12::SCWMssOS::"Running Make libs in microblaze_0/libsrc/standalone_v8_0/src"
+
+TRACE::2023-07-09.19:52:12::SCWMssOS::make -C microblaze_0/libsrc/standalone_v8_0/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMP
+TRACE::2023-07-09.19:52:12::SCWMssOS::ILER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wa
+TRACE::2023-07-09.19:52:12::SCWMssOS::ll -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2023-07-09.19:52:12::SCWMssOS::"Running Make libs in microblaze_0/libsrc/uartlite_v3_7/src"
+
+TRACE::2023-07-09.19:52:12::SCWMssOS::make -C microblaze_0/libsrc/uartlite_v3_7/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPIL
+TRACE::2023-07-09.19:52:12::SCWMssOS::ER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall
+TRACE::2023-07-09.19:52:12::SCWMssOS:: -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2023-07-09.19:52:14::SCWMssOS::"DEBUG NON_LTO_OBJECTS is ../../../lib/microblaze_interrupt_handler.o"
+
+TRACE::2023-07-09.19:52:14::SCWMssOS::'Finished building libraries parallelly.'
+
+TRACE::2023-07-09.19:52:14::SCWMssOS::make --no-print-directory archive
+
+TRACE::2023-07-09.19:52:14::SCWMssOS::mb-ar -r  microblaze_0/lib/libxil.a microblaze_0/lib/_exit.o microblaze_0/lib/errno.o microblaze_0/lib/fcntl.o microblaze_0/lib
+TRACE::2023-07-09.19:52:14::SCWMssOS::/hw_exception_handler.o microblaze_0/lib/inbyte.o microblaze_0/lib/microblaze_disable_dcache.o microblaze_0/lib/microblaze_disa
+TRACE::2023-07-09.19:52:14::SCWMssOS::ble_exceptions.o microblaze_0/lib/microblaze_disable_icache.o microblaze_0/lib/microblaze_disable_interrupts.o microblaze_0/lib
+TRACE::2023-07-09.19:52:14::SCWMssOS::/microblaze_enable_dcache.o microblaze_0/lib/microblaze_enable_exceptions.o microblaze_0/lib/microblaze_enable_icache.o microbl
+TRACE::2023-07-09.19:52:14::SCWMssOS::aze_0/lib/microblaze_enable_interrupts.o microblaze_0/lib/microblaze_exception_handler.o microblaze_0/lib/microblaze_flush_cach
+TRACE::2023-07-09.19:52:14::SCWMssOS::e_ext.o microblaze_0/lib/microblaze_flush_cache_ext_range.o microblaze_0/lib/microblaze_flush_dcache.o microblaze_0/lib/microbl
+TRACE::2023-07-09.19:52:14::SCWMssOS::aze_flush_dcache_range.o microblaze_0/lib/microblaze_init_dcache_range.o microblaze_0/lib/microblaze_init_icache_range.o microb
+TRACE::2023-07-09.19:52:14::SCWMssOS::laze_0/lib/microblaze_interrupt_handler.o microblaze_0/lib/microblaze_interrupts_g.o microblaze_0/lib/microblaze_invalidate_cac
+TRACE::2023-07-09.19:52:14::SCWMssOS::he_ext.o microblaze_0/lib/microblaze_invalidate_cache_ext_range.o microblaze_0/lib/microblaze_invalidate_dcache.o microblaze_0/
+TRACE::2023-07-09.19:52:14::SCWMssOS::lib/microblaze_invalidate_dcache_range.o microblaze_0/lib/microblaze_invalidate_icache.o microblaze_0/lib/microblaze_invalidate
+TRACE::2023-07-09.19:52:14::SCWMssOS::_icache_range.o microblaze_0/lib/microblaze_scrub.o microblaze_0/lib/microblaze_selftest.o microblaze_0/lib/microblaze_sleep.o 
+TRACE::2023-07-09.19:52:14::SCWMssOS::microblaze_0/lib/microblaze_update_dcache.o microblaze_0/lib/microblaze_update_icache.o microblaze_0/lib/outbyte.o microblaze_0
+TRACE::2023-07-09.19:52:14::SCWMssOS::/lib/print.o microblaze_0/lib/pvr.o microblaze_0/lib/xbram.o microblaze_0/lib/xbram_g.o microblaze_0/lib/xbram_intr.o microblaz
+TRACE::2023-07-09.19:52:14::SCWMssOS::e_0/lib/xbram_selftest.o microblaze_0/lib/xbram_sinit.o microblaze_0/lib/xiic.o microblaze_0/lib/xiic_dyn_master.o microblaze_0
+TRACE::2023-07-09.19:52:14::SCWMssOS::/lib/xiic_g.o microblaze_0/lib/xiic_intr.o microblaze_0/lib/xiic_l.o microblaze_0/lib/xiic_master.o microblaze_0/lib/xiic_multi
+TRACE::2023-07-09.19:52:14::SCWMssOS::_master.o microblaze_0/lib/xiic_options.o microblaze_0/lib/xiic_selftest.o microblaze_0/lib/xiic_sinit.o microblaze_0/lib/xiic_
+TRACE::2023-07-09.19:52:14::SCWMssOS::slave.o microblaze_0/lib/xiic_stats.o microblaze_0/lib/xil_assert.o microblaze_0/lib/xil_cache.o microblaze_0/lib/xil_clocking.
+TRACE::2023-07-09.19:52:14::SCWMssOS::o microblaze_0/lib/xil_exception.o microblaze_0/lib/xil_mem.o microblaze_0/lib/xil_misc_psreset_api.o microblaze_0/lib/xil_prin
+TRACE::2023-07-09.19:52:14::SCWMssOS::tf.o microblaze_0/lib/xil_sleepcommon.o microblaze_0/lib/xil_testcache.o microblaze_0/lib/xil_testio.o microblaze_0/lib/xil_tes
+TRACE::2023-07-09.19:52:14::SCWMssOS::tmem.o microblaze_0/lib/xil_util.o microblaze_0/lib/xintc.o microblaze_0/lib/xintc_g.o microblaze_0/lib/xintc_intr.o microblaze
+TRACE::2023-07-09.19:52:14::SCWMssOS::_0/lib/xintc_l.o microblaze_0/lib/xintc_options.o microblaze_0/lib/xintc_selftest.o microblaze_0/lib/xinterrupt_wrap.o microbla
+TRACE::2023-07-09.19:52:14::SCWMssOS::ze_0/lib/xio.o microblaze_0/lib/xplatform_info.o microblaze_0/lib/xuartlite.o microblaze_0/lib/xuartlite_g.o microblaze_0/lib/x
+TRACE::2023-07-09.19:52:14::SCWMssOS::uartlite_intr.o microblaze_0/lib/xuartlite_l.o microblaze_0/lib/xuartlite_selftest.o microblaze_0/lib/xuartlite_sinit.o microbl
+TRACE::2023-07-09.19:52:14::SCWMssOS::aze_0/lib/xuartlite_stats.o
+
+TRACE::2023-07-09.19:52:14::SCWMssOS::'Finished building libraries'
+
+TRACE::2023-07-09.19:52:14::SCWMssOS::Copying to export directory.
+TRACE::2023-07-09.19:52:15::SCWMssOS:: Checking if to create the Supporting Applications
+TRACE::2023-07-09.19:52:15::SCWMssOS:: No Linux domain exists, trying to generate FSBL 
+LOG::2023-07-09.19:52:15::SCWSystem::Completed Processing the domain standalone_domain
+LOG::2023-07-09.19:52:15::SCWSystem::Completed Processing the sysconfig joy_platform
+LOG::2023-07-09.19:52:15::SCWPlatform::Completed generating the artifacts for system configuration joy_platform
+TRACE::2023-07-09.19:52:15::SCWPlatform::Started preparing the platform 
+TRACE::2023-07-09.19:52:15::SCWSystem::Writing the bif file for system config joy_platform
+TRACE::2023-07-09.19:52:15::SCWSystem::dir created 
+TRACE::2023-07-09.19:52:15::SCWSystem::Writing the bif 
+TRACE::2023-07-09.19:52:15::SCWPlatform::Started writing the spfm file 
+TRACE::2023-07-09.19:52:15::SCWPlatform::Started writing the xpfm file 
+TRACE::2023-07-09.19:52:15::SCWPlatform::Completed generating the platform
+TRACE::2023-07-09.19:52:15::SCWMssOS::Saving the mss changes C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/Vitis/joy_platform/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2023-07-09.19:52:15::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2023-07-09.19:52:15::SCWMssOS::Completed writemss as part of save.
+TRACE::2023-07-09.19:52:15::SCWMssOS::Commit changes completed.
+TRACE::2023-07-09.19:52:15::SCWPlatform::Trying to open the hw design at C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/Vitis/joy_platform/hw/design_1_wrapper.xsa
+TRACE::2023-07-09.19:52:15::SCWPlatform::DSA given C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/Vitis/joy_platform/hw/design_1_wrapper.xsa
+TRACE::2023-07-09.19:52:15::SCWPlatform::DSA absoulate path C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/Vitis/joy_platform/hw/design_1_wrapper.xsa
+TRACE::2023-07-09.19:52:15::SCWPlatform::DSA directory C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/Vitis/joy_platform/hw
+TRACE::2023-07-09.19:52:15::SCWPlatform:: Platform Path C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/Vitis/joy_platform/hw/design_1_wrapper.xsa
+TRACE::2023-07-09.19:52:15::SCWPlatform:: Unique name xilinx:nexys-a7-100t::0.0
+TRACE::2023-07-09.19:52:15::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_1
+TRACE::2023-07-09.19:52:15::SCWPlatform::Opened existing hwdb design_1_wrapper_1
+TRACE::2023-07-09.19:52:15::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2023-07-09.19:52:15::SCWMssOS::Checking the sw design at  C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/Vitis/joy_platform/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2023-07-09.19:52:15::SCWMssOS::DEBUG:  swdes dump  C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/Vitis/joy_platform/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2023-07-09.19:52:15::SCWMssOS::Sw design exists and opened at  C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/Vitis/joy_platform/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2023-07-09.19:52:15::SCWWriter::formatted JSON is {
+	"platformName":	"joy_platform",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"joy_platform",
+	"platHandOff":	"C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/project_28/design_1_wrapper.xsa",
+	"platIntHandOff":	"<platformDir>/hw/design_1_wrapper.xsa",
+	"deviceType":	"FPGA",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"joy_platform",
+	"systems":	[{
+			"systemName":	"joy_platform",
+			"systemDesc":	"joy_platform",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"joy_platform",
+			"sysActiveDom":	"standalone_domain",
+			"sysDefaultDom":	"standalone_domain",
+			"domains":	[{
+					"domainName":	"standalone_domain",
+					"domainDispName":	"standalone on microblaze_0",
+					"domainDesc":	"standalone_domain",
+					"processors":	"microblaze_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"debugEnable":	"False",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"8.0",
+					"mssFile":	"",
+					"md5Digest":	"5f8d3f7dd52058d418a3afdc532fc6d4",
+					"compatibleApp":	"",
+					"domType":	"mssDomain",
+					"arch":	"32-bit",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	[],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}]
+		}]
+}
+KEYINFO::2023-07-09.19:52:15::SCWPlatform::updated the xpfm file.
+TRACE::2023-07-09.19:52:16::SCWPlatform::Trying to open the hw design at C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/Vitis/joy_platform/hw/design_1_wrapper.xsa
+TRACE::2023-07-09.19:52:16::SCWPlatform::DSA given C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/Vitis/joy_platform/hw/design_1_wrapper.xsa
+TRACE::2023-07-09.19:52:16::SCWPlatform::DSA absoulate path C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/Vitis/joy_platform/hw/design_1_wrapper.xsa
+TRACE::2023-07-09.19:52:16::SCWPlatform::DSA directory C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/Vitis/joy_platform/hw
+TRACE::2023-07-09.19:52:16::SCWPlatform:: Platform Path C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/Vitis/joy_platform/hw/design_1_wrapper.xsa
+TRACE::2023-07-09.19:52:16::SCWPlatform:: Unique name xilinx:nexys-a7-100t::0.0
+TRACE::2023-07-09.19:52:16::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_1
+TRACE::2023-07-09.19:52:16::SCWPlatform::Opened existing hwdb design_1_wrapper_1
+TRACE::2023-07-09.19:52:16::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2023-07-09.19:52:16::SCWMssOS::Checking the sw design at  C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/Vitis/joy_platform/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2023-07-09.19:52:16::SCWMssOS::DEBUG:  swdes dump  C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/Vitis/joy_platform/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2023-07-09.19:52:16::SCWMssOS::Sw design exists and opened at  C:/Users/SaikotDasJoy/Desktop/Embedded_Electronics_B/Vitis/joy_platform/microblaze_0/standalone_domain/bsp/system.mss
